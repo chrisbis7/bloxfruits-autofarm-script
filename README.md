@@ -1,6 +1,6 @@
 # bloxfruits-autofarm-script
 
-
+<img src="https://github.com/chrisbis7/bloxfruits-autofarm-script/blob/main/1.jpg"/>
 
 👉 Are you looking for Blox Fruits scripts to run on PC to enable auto features like auto farm, auto raid, auto bounty, auto race, and others? If so, our guide has you covered.
 
