@@ -8,6 +8,8 @@
 
 👉 Thankfully, you can automate most of the Blox Fruits item grind using scripts to farm certain items in the game. So, keep reading our guide as we share all working scripts for Blox Fruits and steps on how you can use them.
 
+<img src="https://github.com/chrisbis7/bloxfruits-autofarm-script/blob/main/2.png"/>
+
 **Description**
 
 1. Auto farm: The script allows the player to automatically farm for in-game resources, such as fruits or money, without the need for manual grinding.
