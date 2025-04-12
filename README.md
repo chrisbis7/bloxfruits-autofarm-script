@@ -1,14 +1,12 @@
 # bloxfruits-autofarm-script
 
-<img src="https://github.com/chrisbis7/bloxfruits-autofarm-script/blob/main/1.jpg"/>
+<img src="https://github.com/chrisbis7/bloxfruits-autofarm-script/blob/main/2.png"/>
 
 👉 Are you looking for Blox Fruits scripts to run on PC to enable auto features like auto farm, auto raid, auto bounty, auto race, and others? If so, our guide has you covered.
 
 👉 As you may know, Blox Fruits is one of the most popular anime-inspired games on the Roblox platform that offers a plethora of content that can become daunting to tackle for new players. There are also some of the items like Dragon Scale and others that require a lot of mob and boss grinding.
 
 👉 Thankfully, you can automate most of the Blox Fruits item grind using scripts to farm certain items in the game. So, keep reading our guide as we share all working scripts for Blox Fruits and steps on how you can use them.
-
-<img src="https://github.com/chrisbis7/bloxfruits-autofarm-script/blob/main/2.png"/>
 
 **Description**
 
@@ -53,3 +51,5 @@ To stay ahead of the game and developers, you can visit the website AllBloxFruit
 Note that the site only shares the scripts and does not create them. Additionally, it provides a guide on how to use them safely with a Roblox executor.
 
 So, without further delay, let’s get started.
+
+<img src="https://github.com/chrisbis7/bloxfruits-autofarm-script/blob/main/1.jpg"/>
